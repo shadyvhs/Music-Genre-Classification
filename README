@@ -1,0 +1,13 @@
+FinalTask.ipynb contains code for the full task.
+
+Bonus.ipynb cntains code for graphing the audio signal and various features extracted from it.
+
+musicgenre.pdf explains the full code.
+
+BonusTask.pdf explains the audio feature analysis.
+
+graph and graphc are just folders containing one song each that were used in Bonus.ipynb for analysis.
+
+rock and classical are folders that contain the songs used to train and test the model(from the GTZAN dataset).
+
+Sample consists of five songs of different genres from rock and classical on which a %rock and %classical prediction has been made.
